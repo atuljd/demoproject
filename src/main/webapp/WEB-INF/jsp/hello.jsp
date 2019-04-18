@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello Spring Boot</h1>
+	<h1>Person Detail: ${person.name}</h1><h1>Person Detail: ${person.age}</h1><h1>Person Detail: ${person.emailId}</h1>
 </body>
 </html>
